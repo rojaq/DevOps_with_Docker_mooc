@@ -1,0 +1,5 @@
+PS C:\Users\Jacek-PC\docker mooc> docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+PS C:\Users\Jacek-PC\docker mooc> docker ps -a
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+PS C:\Users\Jacek-PC\docker mooc>

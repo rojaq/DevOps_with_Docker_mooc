@@ -1,0 +1,5 @@
+PS C:\Users\Jacek-PC\docker mooc> docker ps -a
+CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS                      PORTS     NAMES
+91d4677462cc   nginx     "/docker-entrypoint.…"   6 minutes ago   Exited (0) 12 seconds ago             sad_mcnulty
+f488520d89fc   nginx     "/docker-entrypoint.…"   6 minutes ago   Exited (0) 12 seconds ago             adoring_cannon
+76e65c5a427a   nginx     "/docker-entrypoint.…"   7 minutes ago   Up 7 minutes                80/tcp    great_williamson
