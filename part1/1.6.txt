@@ -1,0 +1,6 @@
+PS C:\Users\Jacek-PC> docker exec -it youthful_austin sh
+/usr/app # cat README.md
+This is the readme, use input "basics" to complete this exercise.
+/usr/app # cat README.md
+This is the readme, use input "basics" to complete this exercise.
+/usr/app #

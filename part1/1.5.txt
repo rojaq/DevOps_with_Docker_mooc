@@ -1,0 +1,11 @@
+/usr/src/app # tail text.log
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2024-02-12 23:31:35 +0000 UTC
+2024-02-12 23:31:37 +0000 UTC
+2024-02-12 23:31:39 +0000 UTC
+2024-02-12 23:31:41 +0000 UTC
+2024-02-12 23:31:43 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+2024-02-12 23:31:45 +0000 UTC
+2024-02-12 23:31:47 +0000 UTC
+2024-02-12 23:31:49 +0000 UTC
